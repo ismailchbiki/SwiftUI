@@ -18,6 +18,7 @@
 		9559D04F287F5575008BE852 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9559D04E287F5575008BE852 /* Assets.xcassets */; };
 		9559D052287F5575008BE852 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9559D051287F5575008BE852 /* Preview Assets.xcassets */; };
 		9559D059287F6F26008BE852 /* TextBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9559D058287F6F26008BE852 /* TextBootcamp.swift */; };
+		95D68E03288DC12A00D65C05 /* BackgroundAndOverlayBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95D68E02288DC12A00D65C05 /* BackgroundAndOverlayBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,6 +34,7 @@
 		9559D04E287F5575008BE852 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9559D051287F5575008BE852 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		9559D058287F6F26008BE852 /* TextBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextBootcamp.swift; sourceTree = "<group>"; };
+		95D68E02288DC12A00D65C05 /* BackgroundAndOverlayBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundAndOverlayBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -70,6 +72,7 @@
 				9545FAEE288B261B00376380 /* ShapesBootcamp.swift */,
 				9545FAF0288B4B3100376380 /* ColorsBootcamp.swift */,
 				9545FAF8288DA2E400376380 /* FrameBootcamp.swift */,
+				95D68E02288DC12A00D65C05 /* BackgroundAndOverlayBootcamp.swift */,
 				9545FAF6288D96CD00376380 /* ImageBootcamp.swift */,
 				9545FAF4288C88FE00376380 /* SystemIcons.swift */,
 				9545FAF2288C05EE00376380 /* GradientsBootcamp.swift */,
@@ -159,6 +162,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				9545FAF1288B4B3100376380 /* ColorsBootcamp.swift in Sources */,
+				95D68E03288DC12A00D65C05 /* BackgroundAndOverlayBootcamp.swift in Sources */,
 				9545FAEF288B261B00376380 /* ShapesBootcamp.swift in Sources */,
 				9545FAF9288DA2E400376380 /* FrameBootcamp.swift in Sources */,
 				9545FAF3288C05EE00376380 /* GradientsBootcamp.swift in Sources */,

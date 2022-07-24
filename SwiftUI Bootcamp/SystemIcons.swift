@@ -9,18 +9,18 @@ import SwiftUI
 
 struct System_Icons: View {
     var body: some View {
-                Image(systemName: "person.fill.badge.plus")
+        Image(systemName: "person.fill.badge.plus")
             .renderingMode(.original)
             .font(.largeTitle)
-//            .resizable()
-//            .aspectRatio(contentMode: .fit)
-//            .scaledToFit()
-//            .scaledToFill()
-//            .font(.caption)
-//            .font(.system(size: 200))
-//            .foregroundColor(.orange)
-//            .frame(width: 300, height: 300)
-//            .clipped()
+        //            .resizable()
+        //            .aspectRatio(contentMode: .fit)
+        //            .scaledToFit()
+        //            .scaledToFill()
+        //            .font(.caption)
+        //            .font(.system(size: 200))
+        //            .foregroundColor(.orange)
+        //            .frame(width: 300, height: 300)
+        //            .clipped()
     }
 }
 
