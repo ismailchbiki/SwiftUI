@@ -22,6 +22,7 @@
 		9559D052287F5575008BE852 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9559D051287F5575008BE852 /* Preview Assets.xcassets */; };
 		9559D059287F6F26008BE852 /* TextBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9559D058287F6F26008BE852 /* TextBootcamp.swift */; };
 		958A33782895649A006E2A31 /* Init&EnumsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 958A33772895649A006E2A31 /* Init&EnumsBootcamp.swift */; };
+		958A337A289576BA006E2A31 /* ForEachBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 958A3379289576BA006E2A31 /* ForEachBootcamp.swift */; };
 		95D68E03288DC12A00D65C05 /* BackgroundAndOverlayBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95D68E02288DC12A00D65C05 /* BackgroundAndOverlayBootcamp.swift */; };
 /* End PBXBuildFile section */
 
@@ -42,6 +43,7 @@
 		9559D051287F5575008BE852 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		9559D058287F6F26008BE852 /* TextBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextBootcamp.swift; sourceTree = "<group>"; };
 		958A33772895649A006E2A31 /* Init&EnumsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Init&EnumsBootcamp.swift"; sourceTree = "<group>"; };
+		958A3379289576BA006E2A31 /* ForEachBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForEachBootcamp.swift; sourceTree = "<group>"; };
 		95D68E02288DC12A00D65C05 /* BackgroundAndOverlayBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundAndOverlayBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -83,6 +85,7 @@
 				95545DB62891C30900D8118C /* StacksBootcamp.swift */,
 				95D68E02288DC12A00D65C05 /* BackgroundAndOverlayBootcamp.swift */,
 				95545DB82891D87F00D8118C /* PaddingBootcamp.swift */,
+				958A3379289576BA006E2A31 /* ForEachBootcamp.swift */,
 				958A33772895649A006E2A31 /* Init&EnumsBootcamp.swift */,
 				95545DBA2891E88200D8118C /* SpacerBootcamp.swift */,
 				9545FAF6288D96CD00376380 /* ImageBootcamp.swift */,
@@ -181,6 +184,7 @@
 				9545FAF9288DA2E400376380 /* FrameBootcamp.swift in Sources */,
 				9545FAF3288C05EE00376380 /* GradientsBootcamp.swift in Sources */,
 				9559D04D287F5573008BE852 /* ContentView.swift in Sources */,
+				958A337A289576BA006E2A31 /* ForEachBootcamp.swift in Sources */,
 				9559D059287F6F26008BE852 /* TextBootcamp.swift in Sources */,
 				9559D04B287F5573008BE852 /* SwiftUI_BootcampApp.swift in Sources */,
 				95545DB72891C30900D8118C /* StacksBootcamp.swift in Sources */,

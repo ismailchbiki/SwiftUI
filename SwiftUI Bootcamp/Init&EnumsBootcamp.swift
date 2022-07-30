@@ -23,7 +23,6 @@ struct Init_EnumsBootcamp: View {
     init(count: Int, fruit: Fruit ){
         self.count = count
         //        self.title = title
-        //
         //        if title == "Apples"{
         //            self.backgroundColor = .red
         //        } else {
