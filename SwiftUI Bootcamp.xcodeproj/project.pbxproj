@@ -23,6 +23,7 @@
 		9559D059287F6F26008BE852 /* TextBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9559D058287F6F26008BE852 /* TextBootcamp.swift */; };
 		958A33782895649A006E2A31 /* Init&EnumsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 958A33772895649A006E2A31 /* Init&EnumsBootcamp.swift */; };
 		958A337A289576BA006E2A31 /* ForEachBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 958A3379289576BA006E2A31 /* ForEachBootcamp.swift */; };
+		958A337C2895A09E006E2A31 /* ScrollViewBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 958A337B2895A09E006E2A31 /* ScrollViewBootcamp.swift */; };
 		95D68E03288DC12A00D65C05 /* BackgroundAndOverlayBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95D68E02288DC12A00D65C05 /* BackgroundAndOverlayBootcamp.swift */; };
 /* End PBXBuildFile section */
 
@@ -44,6 +45,7 @@
 		9559D058287F6F26008BE852 /* TextBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextBootcamp.swift; sourceTree = "<group>"; };
 		958A33772895649A006E2A31 /* Init&EnumsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Init&EnumsBootcamp.swift"; sourceTree = "<group>"; };
 		958A3379289576BA006E2A31 /* ForEachBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForEachBootcamp.swift; sourceTree = "<group>"; };
+		958A337B2895A09E006E2A31 /* ScrollViewBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewBootcamp.swift; sourceTree = "<group>"; };
 		95D68E02288DC12A00D65C05 /* BackgroundAndOverlayBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundAndOverlayBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -86,6 +88,7 @@
 				95D68E02288DC12A00D65C05 /* BackgroundAndOverlayBootcamp.swift */,
 				95545DB82891D87F00D8118C /* PaddingBootcamp.swift */,
 				958A3379289576BA006E2A31 /* ForEachBootcamp.swift */,
+				958A337B2895A09E006E2A31 /* ScrollViewBootcamp.swift */,
 				958A33772895649A006E2A31 /* Init&EnumsBootcamp.swift */,
 				95545DBA2891E88200D8118C /* SpacerBootcamp.swift */,
 				9545FAF6288D96CD00376380 /* ImageBootcamp.swift */,
@@ -178,6 +181,7 @@
 			files = (
 				958A33782895649A006E2A31 /* Init&EnumsBootcamp.swift in Sources */,
 				9545FAF1288B4B3100376380 /* ColorsBootcamp.swift in Sources */,
+				958A337C2895A09E006E2A31 /* ScrollViewBootcamp.swift in Sources */,
 				95D68E03288DC12A00D65C05 /* BackgroundAndOverlayBootcamp.swift in Sources */,
 				9545FAEF288B261B00376380 /* ShapesBootcamp.swift in Sources */,
 				95545DB92891D87F00D8118C /* PaddingBootcamp.swift in Sources */,
