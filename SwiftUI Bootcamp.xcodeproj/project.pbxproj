@@ -25,6 +25,7 @@
 		958A337A289576BA006E2A31 /* ForEachBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 958A3379289576BA006E2A31 /* ForEachBootcamp.swift */; };
 		958A337C2895A09E006E2A31 /* ScrollViewBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 958A337B2895A09E006E2A31 /* ScrollViewBootcamp.swift */; };
 		958A337E2895A67D006E2A31 /* LazyVGridBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 958A337D2895A67D006E2A31 /* LazyVGridBootcamp.swift */; };
+		958A33802895CE76006E2A31 /* SafeAreaBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 958A337F2895CE76006E2A31 /* SafeAreaBootcamp.swift */; };
 		95D68E03288DC12A00D65C05 /* BackgroundAndOverlayBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95D68E02288DC12A00D65C05 /* BackgroundAndOverlayBootcamp.swift */; };
 /* End PBXBuildFile section */
 
@@ -48,6 +49,7 @@
 		958A3379289576BA006E2A31 /* ForEachBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForEachBootcamp.swift; sourceTree = "<group>"; };
 		958A337B2895A09E006E2A31 /* ScrollViewBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewBootcamp.swift; sourceTree = "<group>"; };
 		958A337D2895A67D006E2A31 /* LazyVGridBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LazyVGridBootcamp.swift; sourceTree = "<group>"; };
+		958A337F2895CE76006E2A31 /* SafeAreaBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SafeAreaBootcamp.swift; sourceTree = "<group>"; };
 		95D68E02288DC12A00D65C05 /* BackgroundAndOverlayBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundAndOverlayBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -91,6 +93,7 @@
 				958A337D2895A67D006E2A31 /* LazyVGridBootcamp.swift */,
 				95545DB82891D87F00D8118C /* PaddingBootcamp.swift */,
 				958A3379289576BA006E2A31 /* ForEachBootcamp.swift */,
+				958A337F2895CE76006E2A31 /* SafeAreaBootcamp.swift */,
 				958A337B2895A09E006E2A31 /* ScrollViewBootcamp.swift */,
 				958A33772895649A006E2A31 /* Init&EnumsBootcamp.swift */,
 				95545DBA2891E88200D8118C /* SpacerBootcamp.swift */,
@@ -190,6 +193,7 @@
 				95545DB92891D87F00D8118C /* PaddingBootcamp.swift in Sources */,
 				9545FAF9288DA2E400376380 /* FrameBootcamp.swift in Sources */,
 				9545FAF3288C05EE00376380 /* GradientsBootcamp.swift in Sources */,
+				958A33802895CE76006E2A31 /* SafeAreaBootcamp.swift in Sources */,
 				9559D04D287F5573008BE852 /* ContentView.swift in Sources */,
 				958A337A289576BA006E2A31 /* ForEachBootcamp.swift in Sources */,
 				9559D059287F6F26008BE852 /* TextBootcamp.swift in Sources */,
