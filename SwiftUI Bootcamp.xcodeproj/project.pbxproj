@@ -34,6 +34,7 @@
 		95A6A57228AFE3DD0045FFE7 /* ConditionalStatements.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95A6A57128AFE3DD0045FFE7 /* ConditionalStatements.swift */; };
 		95A6A57428AFEBB50045FFE7 /* TernaryOperators.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95A6A57328AFEBB50045FFE7 /* TernaryOperators.swift */; };
 		95A6A57628AFF1F80045FFE7 /* Animations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95A6A57528AFF1F80045FFE7 /* Animations.swift */; };
+		95A6A57828B027920045FFE7 /* AnimationCurvesAndTiming.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95A6A57728B027920045FFE7 /* AnimationCurvesAndTiming.swift */; };
 		95D68E03288DC12A00D65C05 /* BackgroundAndOverlayBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95D68E02288DC12A00D65C05 /* BackgroundAndOverlayBootcamp.swift */; };
 /* End PBXBuildFile section */
 
@@ -66,6 +67,7 @@
 		95A6A57128AFE3DD0045FFE7 /* ConditionalStatements.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConditionalStatements.swift; sourceTree = "<group>"; };
 		95A6A57328AFEBB50045FFE7 /* TernaryOperators.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TernaryOperators.swift; sourceTree = "<group>"; };
 		95A6A57528AFF1F80045FFE7 /* Animations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Animations.swift; sourceTree = "<group>"; };
+		95A6A57728B027920045FFE7 /* AnimationCurvesAndTiming.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationCurvesAndTiming.swift; sourceTree = "<group>"; };
 		95D68E02288DC12A00D65C05 /* BackgroundAndOverlayBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundAndOverlayBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -102,6 +104,7 @@
 				9559D04A287F5573008BE852 /* SwiftUI_BootcampApp.swift */,
 				9559D04C287F5573008BE852 /* ContentView.swift */,
 				9545FAEE288B261B00376380 /* ShapesBootcamp.swift */,
+				95A6A57728B027920045FFE7 /* AnimationCurvesAndTiming.swift */,
 				95A6A57128AFE3DD0045FFE7 /* ConditionalStatements.swift */,
 				95A6A57328AFEBB50045FFE7 /* TernaryOperators.swift */,
 				9545FAF0288B4B3100376380 /* ColorsBootcamp.swift */,
@@ -225,6 +228,7 @@
 				9559D04D287F5573008BE852 /* ContentView.swift in Sources */,
 				958A337A289576BA006E2A31 /* ForEachBootcamp.swift in Sources */,
 				9559D059287F6F26008BE852 /* TextBootcamp.swift in Sources */,
+				95A6A57828B027920045FFE7 /* AnimationCurvesAndTiming.swift in Sources */,
 				9559D04B287F5573008BE852 /* SwiftUI_BootcampApp.swift in Sources */,
 				95545DB72891C30900D8118C /* StacksBootcamp.swift in Sources */,
 				95A6A57228AFE3DD0045FFE7 /* ConditionalStatements.swift in Sources */,
