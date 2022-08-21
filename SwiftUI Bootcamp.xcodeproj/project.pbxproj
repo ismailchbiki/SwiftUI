@@ -37,6 +37,7 @@
 		95A6A57828B027920045FFE7 /* AnimationCurvesAndTiming.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95A6A57728B027920045FFE7 /* AnimationCurvesAndTiming.swift */; };
 		95A6A57A28B249CA0045FFE7 /* Transition.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95A6A57928B249CA0045FFE7 /* Transition.swift */; };
 		95A6A57C28B25E1F0045FFE7 /* Pop-upSheets&FullScreenCovers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95A6A57B28B25E1F0045FFE7 /* Pop-upSheets&FullScreenCovers.swift */; };
+		95A6A57E28B288880045FFE7 /* PopOver.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95A6A57D28B288880045FFE7 /* PopOver.swift */; };
 		95D68E03288DC12A00D65C05 /* BackgroundAndOverlayBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95D68E02288DC12A00D65C05 /* BackgroundAndOverlayBootcamp.swift */; };
 /* End PBXBuildFile section */
 
@@ -72,6 +73,7 @@
 		95A6A57728B027920045FFE7 /* AnimationCurvesAndTiming.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationCurvesAndTiming.swift; sourceTree = "<group>"; };
 		95A6A57928B249CA0045FFE7 /* Transition.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Transition.swift; sourceTree = "<group>"; };
 		95A6A57B28B25E1F0045FFE7 /* Pop-upSheets&FullScreenCovers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Pop-upSheets&FullScreenCovers.swift"; sourceTree = "<group>"; };
+		95A6A57D28B288880045FFE7 /* PopOver.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PopOver.swift; sourceTree = "<group>"; };
 		95D68E02288DC12A00D65C05 /* BackgroundAndOverlayBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundAndOverlayBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -113,6 +115,7 @@
 				95A6A57B28B25E1F0045FFE7 /* Pop-upSheets&FullScreenCovers.swift */,
 				95A6A57128AFE3DD0045FFE7 /* ConditionalStatements.swift */,
 				95A6A57328AFEBB50045FFE7 /* TernaryOperators.swift */,
+				95A6A57D28B288880045FFE7 /* PopOver.swift */,
 				9545FAF0288B4B3100376380 /* ColorsBootcamp.swift */,
 				95A6A56F28AFD82E0045FFE7 /* BindingPropertyWrapper.swift */,
 				9545FAF8288DA2E400376380 /* FrameBootcamp.swift */,
@@ -219,6 +222,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				958A33842895E5E7006E2A31 /* StateBootcamp.swift in Sources */,
+				95A6A57E28B288880045FFE7 /* PopOver.swift in Sources */,
 				958A33782895649A006E2A31 /* Init&EnumsBootcamp.swift in Sources */,
 				9545FAF1288B4B3100376380 /* ColorsBootcamp.swift in Sources */,
 				95A6A57028AFD82E0045FFE7 /* BindingPropertyWrapper.swift in Sources */,

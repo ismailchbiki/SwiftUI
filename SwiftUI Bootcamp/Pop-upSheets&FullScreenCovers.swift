@@ -58,7 +58,7 @@ struct SecondScreen: View{
     //and hence knows how to dismiss it correctly
     @Environment(\.presentationMode) var presentationMode
     
-    @State var showSheet: Bool = true
+//    @State var showSheet: Bool = true
     @State var color: Color = Color.red
     
     var body: some View{
