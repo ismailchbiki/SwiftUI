@@ -38,6 +38,7 @@
 		95A6A57A28B249CA0045FFE7 /* Transition.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95A6A57928B249CA0045FFE7 /* Transition.swift */; };
 		95A6A57C28B25E1F0045FFE7 /* Pop-upSheets&FullScreenCovers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95A6A57B28B25E1F0045FFE7 /* Pop-upSheets&FullScreenCovers.swift */; };
 		95A6A57E28B288880045FFE7 /* PopOver.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95A6A57D28B288880045FFE7 /* PopOver.swift */; };
+		95A6A58228B29B190045FFE7 /* NavigationView&Link.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95A6A58128B29B190045FFE7 /* NavigationView&Link.swift */; };
 		95D68E03288DC12A00D65C05 /* BackgroundAndOverlayBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95D68E02288DC12A00D65C05 /* BackgroundAndOverlayBootcamp.swift */; };
 /* End PBXBuildFile section */
 
@@ -74,6 +75,7 @@
 		95A6A57928B249CA0045FFE7 /* Transition.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Transition.swift; sourceTree = "<group>"; };
 		95A6A57B28B25E1F0045FFE7 /* Pop-upSheets&FullScreenCovers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Pop-upSheets&FullScreenCovers.swift"; sourceTree = "<group>"; };
 		95A6A57D28B288880045FFE7 /* PopOver.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PopOver.swift; sourceTree = "<group>"; };
+		95A6A58128B29B190045FFE7 /* NavigationView&Link.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "NavigationView&Link.swift"; sourceTree = "<group>"; };
 		95D68E02288DC12A00D65C05 /* BackgroundAndOverlayBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundAndOverlayBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -123,6 +125,7 @@
 				95A6A57528AFF1F80045FFE7 /* Animations.swift */,
 				95545DB62891C30900D8118C /* StacksBootcamp.swift */,
 				95D68E02288DC12A00D65C05 /* BackgroundAndOverlayBootcamp.swift */,
+				95A6A58128B29B190045FFE7 /* NavigationView&Link.swift */,
 				958A337D2895A67D006E2A31 /* LazyVGridBootcamp.swift */,
 				95545DB82891D87F00D8118C /* PaddingBootcamp.swift */,
 				958A33812895DC3F006E2A31 /* ButtonsBootcamp.swift */,
@@ -250,6 +253,7 @@
 				958A337E2895A67D006E2A31 /* LazyVGridBootcamp.swift in Sources */,
 				95A6A56E28AEEAD30045FFE7 /* ExtractSubViews.swift in Sources */,
 				9545FAF7288D96CD00376380 /* ImageBootcamp.swift in Sources */,
+				95A6A58228B29B190045FFE7 /* NavigationView&Link.swift in Sources */,
 				9545FAF5288C88FE00376380 /* SystemIconsBootcamp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

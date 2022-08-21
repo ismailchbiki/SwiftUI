@@ -16,6 +16,7 @@ struct ExtractSubViews: View {
             VStack{
                 myContent
                 myContent
+                myContent
             }
         }
     }
