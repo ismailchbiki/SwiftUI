@@ -28,9 +28,20 @@ struct AlertPopups: View {
     
     var body: some View {
         ZStack {
-            
             myCustomColor.edgesIgnoringSafeArea(.all)
             VStack {
+                //buttons with enum
+                Button("Click Here") {
+                    alertType = .success
+                    showAlert.toggle()
+                }
+                .padding()
+                
+                Button("Click Here") {
+                    alertType = .error
+                    showAlert.toggle()
+                }
+                
                 //multiple buttons to show different alerts based on the clicked button
                 //                Button("Click Here") {
                 //                    alertTitle = "Hi"
@@ -44,18 +55,6 @@ struct AlertPopups: View {
                 //                    alertMessage = "How are you doing again 😁 ?"
                 //                    showAlert.toggle()
                 //                }
-                
-                //buttons with enum
-                Button("Click Here") {
-                    alertType = .success
-                    showAlert.toggle()
-                }
-                .padding()
-                
-                Button("Click Here") {
-                    alertType = .error
-                    showAlert.toggle()
-                }
                 
                 
                 //        .alert("Title Here", isPresented: $showAlert) {
