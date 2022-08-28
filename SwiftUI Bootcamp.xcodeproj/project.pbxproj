@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		95285A5C28BC12D200D31DB9 /* AdaptingForDarkMode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95285A5B28BC12D200D31DB9 /* AdaptingForDarkMode.swift */; };
 		9545FAEF288B261B00376380 /* ShapesBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9545FAEE288B261B00376380 /* ShapesBootcamp.swift */; };
 		9545FAF1288B4B3100376380 /* ColorsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9545FAF0288B4B3100376380 /* ColorsBootcamp.swift */; };
 		9545FAF3288C05EE00376380 /* GradientsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9545FAF2288C05EE00376380 /* GradientsBootcamp.swift */; };
@@ -57,6 +58,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		95285A5B28BC12D200D31DB9 /* AdaptingForDarkMode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdaptingForDarkMode.swift; sourceTree = "<group>"; };
 		9545FAEE288B261B00376380 /* ShapesBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShapesBootcamp.swift; sourceTree = "<group>"; };
 		9545FAF0288B4B3100376380 /* ColorsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorsBootcamp.swift; sourceTree = "<group>"; };
 		9545FAF2288C05EE00376380 /* GradientsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientsBootcamp.swift; sourceTree = "<group>"; };
@@ -152,6 +154,7 @@
 				95A6A56D28AEEAD30045FFE7 /* ExtractSubViews.swift */,
 				9577DD8828BA8E7C0056A10B /* ToggleToCreateSwitch.swift */,
 				958A3379289576BA006E2A31 /* ForEachBootcamp.swift */,
+				95285A5B28BC12D200D31DB9 /* AdaptingForDarkMode.swift */,
 				9577DD8428B985810056A10B /* TextFieldUsage.swift */,
 				9545FAF8288DA2E400376380 /* FrameBootcamp.swift */,
 				9577DD8C28BB948E0056A10B /* ColorPickerBoot.swift */,
@@ -302,6 +305,7 @@
 				9577DD8F28BBB8390056A10B /* DatePickerBoot.swift in Sources */,
 				95A6A57628AFF1F80045FFE7 /* Animations.swift in Sources */,
 				9577DD8728BA5ED50056A10B /* TextEditorForUserInput.swift in Sources */,
+				95285A5C28BC12D200D31DB9 /* AdaptingForDarkMode.swift in Sources */,
 				95545DBB2891E88200D8118C /* SpacerBootcamp.swift in Sources */,
 				9577DD7B28B423C20056A10B /* ListItemsCrud.swift in Sources */,
 				9577DD8928BA8E7C0056A10B /* ToggleToCreateSwitch.swift in Sources */,
