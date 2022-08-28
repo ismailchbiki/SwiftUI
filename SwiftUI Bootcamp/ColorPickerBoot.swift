@@ -28,10 +28,8 @@ struct ColorPickerBoot: View {
             .cornerRadius(8)
             .foregroundColor(Color.white)
             .font(.headline)
-            .padding(50)
-            
+            .padding(50)   
         }
-        
     }
 }
 
