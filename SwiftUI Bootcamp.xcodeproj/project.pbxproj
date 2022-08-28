@@ -41,6 +41,7 @@
 		958A33822895DC3F006E2A31 /* ButtonsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 958A33812895DC3F006E2A31 /* ButtonsBootcamp.swift */; };
 		958A33842895E5E7006E2A31 /* StateBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 958A33832895E5E6006E2A31 /* StateBootcamp.swift */; };
 		95A30B0328BBF928006B4423 /* TabViewBoot.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95A30B0228BBF928006B4423 /* TabViewBoot.swift */; };
+		95A30B0528BC06C0006B4423 /* TabViewDifferentStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95A30B0428BC06C0006B4423 /* TabViewDifferentStyle.swift */; };
 		95A6A56C28AEE2640045FFE7 /* ExtractedFunctions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95A6A56B28AEE2640045FFE7 /* ExtractedFunctions.swift */; };
 		95A6A56E28AEEAD30045FFE7 /* ExtractSubViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95A6A56D28AEEAD30045FFE7 /* ExtractSubViews.swift */; };
 		95A6A57028AFD82E0045FFE7 /* BindingPropertyWrapper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95A6A56F28AFD82E0045FFE7 /* BindingPropertyWrapper.swift */; };
@@ -91,6 +92,7 @@
 		958A33812895DC3F006E2A31 /* ButtonsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonsBootcamp.swift; sourceTree = "<group>"; };
 		958A33832895E5E6006E2A31 /* StateBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StateBootcamp.swift; sourceTree = "<group>"; };
 		95A30B0228BBF928006B4423 /* TabViewBoot.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabViewBoot.swift; sourceTree = "<group>"; };
+		95A30B0428BC06C0006B4423 /* TabViewDifferentStyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabViewDifferentStyle.swift; sourceTree = "<group>"; };
 		95A6A56B28AEE2640045FFE7 /* ExtractedFunctions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtractedFunctions.swift; sourceTree = "<group>"; };
 		95A6A56D28AEEAD30045FFE7 /* ExtractSubViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtractSubViews.swift; sourceTree = "<group>"; };
 		95A6A56F28AFD82E0045FFE7 /* BindingPropertyWrapper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BindingPropertyWrapper.swift; sourceTree = "<group>"; };
@@ -159,6 +161,7 @@
 				9545FAF2288C05EE00376380 /* GradientsBootcamp.swift */,
 				9577DD8A28BAC1990056A10B /* PickerAndPickerStyles.swift */,
 				95A30B0228BBF928006B4423 /* TabViewBoot.swift */,
+				95A30B0428BC06C0006B4423 /* TabViewDifferentStyle.swift */,
 				9577DD9228BBDCFF0056A10B /* SliderBoot.swift */,
 				9545FAF6288D96CD00376380 /* ImageBootcamp.swift */,
 				958A33772895649A006E2A31 /* Init&EnumsBootcamp.swift */,
@@ -304,6 +307,7 @@
 				9577DD8928BA8E7C0056A10B /* ToggleToCreateSwitch.swift in Sources */,
 				958A337E2895A67D006E2A31 /* LazyVGridBootcamp.swift in Sources */,
 				95A6A56E28AEEAD30045FFE7 /* ExtractSubViews.swift in Sources */,
+				95A30B0528BC06C0006B4423 /* TabViewDifferentStyle.swift in Sources */,
 				9545FAF7288D96CD00376380 /* ImageBootcamp.swift in Sources */,
 				95A6A58228B29B190045FFE7 /* NavigationView&Link.swift in Sources */,
 				9545FAF5288C88FE00376380 /* SystemIconsBootcamp.swift in Sources */,
